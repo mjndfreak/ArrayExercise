@@ -12,3 +12,4 @@
 /Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.pdb
 /Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.genruntimeconfig.cache
 /Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ref/ArrayExercise.dll
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.sourcelink.json
