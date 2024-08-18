@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/bin/Debug/net8.0/ArrayExercise
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/bin/Debug/net8.0/ArrayExercise.deps.json
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/bin/Debug/net8.0/ArrayExercise.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/bin/Debug/net8.0/ArrayExercise.dll
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/bin/Debug/net8.0/ArrayExercise.pdb
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.dll
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/refint/ArrayExercise.dll
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.pdb
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ArrayExercise.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/ArrayExercise/ArrayExercise/obj/Debug/net8.0/ref/ArrayExercise.dll
